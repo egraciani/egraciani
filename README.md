@@ -1,12 +1,11 @@
 
-### Hi there 👋, my name is xxx
+## Hi there 👋, my name is xxx
 
------
+### I'm an Engineer, Data Analyst, Program Manager and Operations Strategist.
 
-## I'm an Engineer, Data Analyst, Program and Operations Strategist.
 
-- 🔭 I’m an engineer with 7+ years of experience: Amazon Operations (5 years), Start-ups (1.5 years) and Consulting (1.5 years).
-- 🎓 Currently pursuing xyzzz 
+- 🔭 I’m an engineer with deep experience working in Amazon and scale-up companies. 
+- 🎓 Always studying, now embarked in a journey to become Data Scientist.  
 - 🔎 Open to new opportunities within the DA/BI field.
 
 LinkedIn Badge
