@@ -1,16 +1,35 @@
-### Hi there 👋
 
-<!--
-**egraciani/egraciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is xxx
 
-Here are some ideas to get you started:
+I'm an Engineer, Data Analyst, Program and Operations Strategist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m an engineer with 7+ years of experience: Amazon Operations (5 years), Start-ups (1.5 years) and Consulting (1.5 years).
+🎓 Currently pursuing xyzzz 
+🔎 Open to new opportunities within the DA/BI field.
+
+LinkedIn Badge
+
+
+
+Here are some of my projects. Check them out!
+
+Project 1: Built xyz xyz. The main goal of the project is to xyz
+
+Project 2: Built xyz xyz. The main goal of the project is to xyz
+
+Project 3: Built xyz xyz. The main goal of the project is to xyz
+
+
+    
+
+
+🛠 Some Tools I Use:
+
+       
+
+Get in touch:
+
+📫 How to reach me: xxxx @gmail.com or LinkedIn
+💬 Always down for a coffe or a call to get to know each other!
+
+
