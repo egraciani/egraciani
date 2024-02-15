@@ -30,7 +30,7 @@ Here are some of my projects. Check them out!
 
 Get in touch:
 
-📫 How to reach me: xxxx @gmail.com or LinkedIn
-💬 Always down for a coffe or a call to get to know each other!
+- 📫 How to reach me: xxxx @gmail.com or LinkedIn
+- 💬 Always down for a coffe or a call to get to know each other!
 
 
