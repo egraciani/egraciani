@@ -8,17 +8,17 @@
 - 🎓 Always studying, now embarked in a journey to become Data Scientist.  
 - 🔎 Open to new opportunities within the DA/BI field.
 
-LinkedIn Badge
+
 
 
 
 Here are some of my projects. Check them out!
 
-Project 1: Built xyz xyz. The main goal of the project is to xyz
+**Project 1**: Built xyz xyz. The main goal of the project is to xyz
 
-Project 2: Built xyz xyz. The main goal of the project is to xyz
+**Project 2**: Built xyz xyz. The main goal of the project is to xyz
 
-Project 3: Built xyz xyz. The main goal of the project is to xyz
+**Project 3**: Built xyz xyz. The main goal of the project is to xyz
 
 
     
