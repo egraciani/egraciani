@@ -1,7 +1,7 @@
 
 ## Hi there 👋, my name is xxx
 
-### I'm an Engineer, Data Analyst, Program Manager and Operations Strategist.
+### After 7 years at Amazon and start-ups, I come to the Data Science field as a progression from Operations and Innovation.
 
 
 - 🔭 I’m an engineer with deep experience working in Amazon and scale-up companies. 
