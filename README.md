@@ -1,13 +1,11 @@
 
 ## Hi there 👋, my name is Eusebio
 
-### After 7 years at Amazon and start-ups, I come to the Data Science field as a progression from Operations and Innovation.
+### I come to the Data Science field as a progression from Operations and Innovation.
 
 
-- 🔭 I’m an engineer with deep experience working in Amazon and scale-up companies. 
-- 🎓 Always studying, now embarked in a journey to become Data Scientist.  
-- 🔎 Open to new opportunities within the DA/BI field.
-
+- 🔭 I’m an engineer with experience working in Amazon and scale-up companies. 
+- 🎓 Always studying, now embarked in a journey to advance my Data Science knowledge.  
 
 
 
